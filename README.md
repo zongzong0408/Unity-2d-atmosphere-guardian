@@ -29,9 +29,9 @@
 <img align="right" src="https://i9.ytimg.com/vi/Wn6BF8Pj23s/mqdefault.jpg?sqp=CMDQopsG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGC0gXyhyMA8=&rs=AOn4CLCEXKCHiG6zkqoHGMiJI9OKkOEHUA">
 
 - Windows 10 64-bits
-- C# ...
-- Unity ...
-- Visual Studio Code 2019 Community
+- C# 6.0.300
+- Unity 2021.3.1f1
+- Visual Studio Code 2017 Community
 
 ## 參考 *References*
 
