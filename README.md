@@ -1,5 +1,7 @@
 ![](https://github.com/zongzong0408/Basic-Initial-Data-Base/blob/main/Unity%202d/atmosphere%20guardian/%E5%B0%81%E9%9D%A2%E7%85%A7%20v3.png?raw=true)
 
+![](https://github.com/zongzong0408/Basic-Initial-Data-Base/blob/main/Unity%202d/atmosphere%20guardian/%E9%81%8A%E6%88%B2%E7%95%AB%E9%9D%A2%EF%BC%88%E5%8B%95%EF%BC%89%20v2.gif?raw=true)
+
 # Atmosphere Guardian Game
 
 	基於 Unity 遊戲引擎開發的 2d 遊戲「Atmosphere Guardian」
@@ -9,7 +11,7 @@
 
 ## 執行狀況 & 原理說明 *Implementation Status* & *Principle Description*
 
-<img align="right" src="https://i9.ytimg.com/vi/kKCW022EA4A/mqdefault.jpg?sqp=CMDQopsG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGC8gXyhyMA8=&rs=AOn4CLCA4eaPt7EJWG-hhjEZSJkQEoJT4A">
+<img align="right" width=40% src="https://github.com/zongzong0408/Basic-Initial-Data-Base/blob/main/Unity%202d/atmosphere%20guardian/%E9%81%8A%E6%88%B2%E7%95%AB%E9%9D%A2%20v2.png?raw=true">
 
 > 可參考以下連結說明。  
 > ***.csv*** 可從疾病管制署資料開放平台獲得後修改(修改方式...)
@@ -26,7 +28,7 @@
 
 ## 配置要求 *Configuration Requirements*
 
-<img align="right" src="https://i9.ytimg.com/vi/Wn6BF8Pj23s/mqdefault.jpg?sqp=CMDQopsG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGC0gXyhyMA8=&rs=AOn4CLCEXKCHiG6zkqoHGMiJI9OKkOEHUA">
+<img align="right" width=40% src="https://github.com/zongzong0408/Basic-Initial-Data-Base/blob/main/Unity%202d/atmosphere%20guardian/%E9%81%8A%E6%88%B2%E7%95%AB%E9%9D%A2%20v1.png?raw=true">
 
 - Windows 10 64-bits
 - C# 6.0.300
